@@ -433,10 +433,11 @@ ul li{
 
 
 .crtica {
-	width: 4px;
-	height: 260px;
+	width: 3px;
+	height: 240px;
 	border-radius: 10px;
 	background-color: #132d7a;
+	margin-top:39px;
 }
 
 .box {
@@ -453,9 +454,12 @@ ul li{
 }
 
 .box p span {
-	font-size: 20px;
+	font-size: 18px;
 	margin-right: 10px;
+	padding:5px 15px;
 }
+
+
 
 .box ul li {
 	margin: 15px;
@@ -547,10 +551,10 @@ ul li{
 }
 
 #copyright .logo a img {
-    width: 27%;
+    width: 24%;
     background-position: -20% 20%;
 	padding:0px;
-	margin:76px 106px 0px 220px;
+	margin:89px 106px 0px 220px;
    
 }
 
@@ -732,7 +736,7 @@ tr td{
 #abg1 th{
 	background-color:#c1d9f5;
 	text-shadow: 0 0 10px #000f36;
-	border-radius:25px;
+	border-radius:10px;
 
 }
 
@@ -748,7 +752,7 @@ tr td{
 	justify-content:center;
 	align-items:center;
 	flex-direction:column;
-  background-color:#d1e5ec;
+    background-color:#d1e5ec;
 	background-size: cover;
 	position:relative;
 }
@@ -758,7 +762,7 @@ tr td{
 	justify-content:center;
 	align-items:center;
 	flex-direction:column;
-  height:800px;
+    height:800px;
 	width:400px;
 	margin-right:500px;
 	position:relative;
