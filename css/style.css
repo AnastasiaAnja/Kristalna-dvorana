@@ -213,7 +213,7 @@ ul li{
 
 #poz2{
     height:600px;
-    background-image:url("../img/zkliz.jpg");
+    background-image:url("../img/klizaljke.jpg");
     background-size:cover;
 	position:relative;
 	
@@ -337,15 +337,15 @@ ul li{
 }
 
 .t1 {
-	background-image: url('../img/tre3.jpg');
+	background-image: url('../img/tecaj.jpg');
 }
 
 .t2 {
-	background-image: url('../img/tr5.jpg');
+	background-image: url('../img/trener.jpg');
 }
 
 .t3 {
-	background-image: url('../img/coup2.jpg');
+	background-image: url('../img/profi.jpg');
 }
 
 .trener-okvir a{
@@ -775,14 +775,13 @@ tr td{
 	justify-content:center;
 	align-items:center;
 	flex-direction:column;
-    background-image:url('../img/preslatko.jpg');
+    background-image:url('../img/devojcice.jpg');
 	height:300px;
 	width:400px;
     background-size:cover;
 	position:absolute;
 	border-radius:25px;
 	margin:1px 1155px 90px 1px;
-	
 }
 
 #desnid{
@@ -804,7 +803,7 @@ tr td{
 	justify-content:center;
 	align-items:center;
 	flex-direction:column;
-    background-image:url('../img/decaa.jpg');
+    background-image:url('../img/deca.jpg');
 	height:300px;
 	width:400px;
     background-size:cover;
@@ -1028,7 +1027,7 @@ tr td{
 .slikica3{ 
 	width:730px;
 	height:270px;
-	background-image:url('../img/trr.jpg');
+	background-image:url('../img/obuka.jpg');
 	border-radius:25px;
     margin:2px 3px 290px 80px;
 	background-size:cover;
@@ -1087,7 +1086,7 @@ tr td{
 }
 
 #galerija {
-	background-image: url('../img/aj.jpg');
+	background-image: url('../img/sala.jpg');
 	background-attachment: fixed;
 	background-size: cover;
 	border-top:4px solid #ffffff;
