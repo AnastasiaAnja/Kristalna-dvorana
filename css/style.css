@@ -11,6 +11,18 @@ body {
 	overflow-x: hidden;
 }
 
+
+
+#okvir{
+    animation:0.5s fade ease-in-out;
+	}
+	
+@keyframes fade{
+	0%{opacity:0;}
+	100%{opacity:1;}
+}
+	
+	
 .flex-center{
 	display:flex;
 	justify-content:center;
@@ -132,18 +144,6 @@ ul li{
 	position:absolute;
 }
 
-
-@keyframes sneg{
-  0%{
-	   margin-top:5%;
-	   color:blue;
-	   }
-	   
-  100%{
-	   margin-top:100%;
-	   color:white;
-	   }
-}
 
 
 
