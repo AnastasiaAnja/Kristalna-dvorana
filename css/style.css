@@ -905,7 +905,7 @@ tr td {
 }
 
 .galerija-srednje img {
-	width: 450px;
+	width: 350px;
 	height: 280px;
 	object-fit: cover;
 	border-radius: 20px;
@@ -915,4 +915,5 @@ tr td {
 #aktiv {
 	color: #132d7a;
 	font-weight: 700;
+
 }
